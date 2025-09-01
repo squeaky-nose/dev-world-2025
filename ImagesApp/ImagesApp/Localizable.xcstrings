@@ -1,0 +1,210 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "**Hello**, World!" : {
+      "shouldTranslate" : false
+    },
+    "%lld X %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld X %2$lld"
+          }
+        }
+      },
+      "shouldTranslate" : false
+    },
+    "analysis.analysing.error" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unable to perform analysis. Please try again later."
+          }
+        }
+      }
+    },
+    "analysis.analysing.text" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Analyzing..."
+          }
+        }
+      }
+    },
+    "analysis.close" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Close"
+          }
+        }
+      }
+    },
+    "analysis.loading.text" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loading"
+          }
+        }
+      }
+    },
+    "analysis.title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Analysis"
+          }
+        }
+      }
+    },
+    "galary.favourite.toggle" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Toggle favourite"
+          }
+        }
+      }
+    },
+    "galary.loading.text" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loading"
+          }
+        }
+      }
+    },
+    "galary.title.curated" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Curated Images"
+          }
+        }
+      }
+    },
+    "galary.title.saved" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saved Images"
+          }
+        }
+      }
+    },
+    "gallery.results.none" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No images"
+          }
+        }
+      }
+    },
+    "search.luckyAlert.cancel.button" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel"
+          }
+        }
+      }
+    },
+    "search.luckyAlert.title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Searching"
+          }
+        }
+      }
+    },
+    "search.luckyResult.button" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Im feeling lucky"
+          }
+        }
+      }
+    },
+    "search.performSearch.button" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perform search"
+          }
+        }
+      }
+    },
+    "search.searchField.placeholder" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enter your search…"
+          }
+        }
+      }
+    },
+    "search.title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Search"
+          }
+        }
+      }
+    },
+    "search.viewCurated.button" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Curated"
+          }
+        }
+      }
+    },
+    "tab.saved.label" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saved"
+          }
+        }
+      }
+    },
+    "tab.search.label" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Search"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

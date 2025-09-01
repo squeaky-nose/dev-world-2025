@@ -1,0 +1,31 @@
+{
+  "configurations" : [
+    {
+      "id" : "CCA802F9-A6C6-4854-AB74-BB1217037585",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:DependencyInjection.xcodeproj",
+        "identifier" : "854C29C52E437C1C00658AF7",
+        "name" : "DependencyInjectionTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:DependencyInjection.xcodeproj",
+        "identifier" : "854CD2A32E65B7220001BC24",
+        "name" : "DependencyInjectionUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

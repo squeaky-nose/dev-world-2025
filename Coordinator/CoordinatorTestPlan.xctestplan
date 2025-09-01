@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "1BDC97A7-4A1E-41E3-866D-B8865AFF094D",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:Coordinator.xcodeproj",
+        "identifier" : "85972C832E40F3C800B7D51C",
+        "name" : "CoordinatorTests"
+      }
+    }
+  ],
+  "version" : 1
+}
